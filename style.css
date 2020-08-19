@@ -3,6 +3,41 @@ body {
 }
 body {
   color: DarkSlateBlue;
-  font-family: Arial;
+  font-family: 'Baloo Tamma 2', cursive;
+    font-size: 18px;
 }
-<link href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@700&display=swap" rel="stylesheet">
+
+p {
+  color: green;
+}
+body {
+  color: black;
+  font-family: Helvetica;
+}
+h1, h2, h3 {
+  font-weight: bold;
+  font-style: italic;
+}
+p {
+  line-height: 2;
+}
+h1 {
+  text-align: center;
+}
+}
+
+header h1 {
+  text-align: center;
+}
+section li a {
+  color: red;
+}
+a {
+  text-decoration: none;
+  color: red;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+}
