@@ -1,18 +1,51 @@
-body {
-  background-color: #CAE7DF;
+.about {
+  background-color: red;
+}
+.about h2 {
+  font-size: 24px;
+}
+* {
+  font-size: 100%;
+  margin: 3;
+  line-height: 1;
+  box-sizing: border-box;
+  /* border: 1px solid red; */
+}
+section {
+  width: 50%;
+  height: 50%;
+}
+
+img {
+  width: 400px;
+  height: 300px;
 }
 body {
   color: DarkSlateBlue;
   font-family: 'Baloo Tamma 2', cursive;
     font-size: 18px;
 }
+body {
+  margin: 10px 20px 10px;
+}
 
+h1 {
+  margin: 30px 0;
+}
+p {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 30px;
+  margin-left: 0;
+}
 p {
   color: green;
 }
 body {
   color: black;
   font-family: Helvetica;
+  font-size: 16px;
+  margin: 50px;
 }
 h1, h2, h3 {
   font-weight: bold;
@@ -22,11 +55,6 @@ p {
   line-height: 2;
 }
 h1 {
-  text-align: center;
-}
-}
-
-header h1 {
   text-align: center;
 }
 section li a {
@@ -40,4 +68,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+}
+* {
+  font-size: 100%;
+  /* border: 1px solid red; */
 }
