@@ -4,11 +4,17 @@
 .about h2 {
   font-size: 24px;
 }
+body {
+  background-image: Url(C:\Users\User\OneDrive\Desktop\Foundations\FITC 130_Web Development and Coding\Code\Website\Images\subtle_stripes.png);
+}
 * {
   margin: 3;
-  line-height: 2;
+  line-height:2 ;
   box-sizing: border-box;
   /* border: 1px solid red; */
+}
+.container {
+  max-width: 1000px;
 }
 section {
   width: 50%;
@@ -72,4 +78,12 @@ a:hover {
 * {
   font-size: 100%;
   /* border: 1px solid red; */
+}
+.box {
+  border: 1px solid black;
+  padding: 30px;
+}
+
+.box p {
+  font-size: 24px;
 }
