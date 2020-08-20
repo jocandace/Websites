@@ -1,13 +1,12 @@
 .about {
-  background-color: red;
+  background-color: #CAE7DF;
 }
 .about h2 {
   font-size: 24px;
 }
 * {
-  font-size: 100%;
   margin: 3;
-  line-height: 1;
+  line-height: 2;
   box-sizing: border-box;
   /* border: 1px solid red; */
 }
